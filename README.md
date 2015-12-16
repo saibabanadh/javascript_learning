@@ -1,2 +1,4 @@
-# javascript_learning
-JavascriptLearning for HM
+# JavaScript Learning
+
+## Exercises
+
